@@ -1,0 +1,14 @@
+2024-05-24 21:11:07,055 - INFO - ETL PROCESS STARTED
+2024-05-24 21:11:07,055 - INFO - Fetching data from Wikipedia
+2024-05-25 08:23:48,396 - INFO - ETL PROCESS STARTED
+2024-05-25 08:23:48,396 - INFO - Fetching data from Wikipedia
+2024-05-25 08:23:52,760 - INFO - Data fetched successfully
+2024-05-25 08:23:53,692 - INFO - Data extracted and read into pandas DataFrame
+2024-05-25 08:23:53,696 - INFO - Starting data transformation
+2024-05-25 08:23:53,720 - INFO - Data transformation completed
+2024-05-25 08:23:53,728 - INFO - Data loaded into Countries_by_GDP.json
+2024-05-25 08:23:53,729 - INFO - Loading data into SQLITE database World_Economies.db
+2024-05-25 08:23:53,751 - INFO - Data loaded into the Database
+2024-05-25 08:23:53,751 - INFO - Querying database for Countries with GDP greater than 100 billion USD
+2024-05-25 08:23:53,753 - INFO - Query executed successfully
+2024-05-25 08:23:53,763 - INFO - ETL process completed
